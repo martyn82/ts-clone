@@ -5,6 +5,10 @@ A small TypeScript library that contains some essential tools to build sophistic
 
 The library contains:
 * Object clone function
+* Class name inflection from type
+* Class name inflection from object
+* Base exception
+* Mixins / traits
 
 ## Prerequisites
 
