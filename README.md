@@ -1,7 +1,10 @@
-ts-clone
+ts-essentials
 ========
 
-A small TypeScript library that enables cloning of objects.
+A small TypeScript library that contains some essential tools to build sophisticated applications.
+
+The library contains:
+* Object clone function
 
 ## Prerequisites
 

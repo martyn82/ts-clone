@@ -1,7 +1,7 @@
 {
-  "name": "ts-clone",
+  "name": "ts-essentials",
   "version": "1.0.0",
-  "description": "TypeScript clone library",
+  "description": "TypeScript essentials library",
   "keywords": [
     "typescript",
     "clone"
@@ -9,12 +9,12 @@
   "author": "Martijn Endenburg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/martyn82/ts-clone/issues"
+    "url": "https://github.com/martyn82/ts-essentials/issues"
   },
-  "homepage": "https://github.com/martyn82/ts-clone",
+  "homepage": "https://github.com/martyn82/ts-essentials",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/martyn82/ts-clone.git"
+    "url": "git+https://github.com/martyn82/ts-essentials.git"
   },
   "config": {
     "all_sources_dir": "src",
