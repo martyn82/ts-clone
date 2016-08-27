@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "allowJs": false,
+    "noImplicitAny": false,
+    "noImplicitReturns": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "declaration": true,
+    "forceConsistentCasingInFileNames": true,
+    "removeComments": true,
+    "stripInternal": true,
+    "charset": "UTF-8",
+    "rootDir": "src",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules",
+    "target",
+    "config"
+  ]
+}
