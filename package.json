@@ -16,6 +16,8 @@
     "type": "git",
     "url": "git+https://github.com/martyn82/ts-essentials.git"
   },
+  "main": "target/build/main/index.ts",
+  "typings": "target/build/main/index.d.ts",
   "config": {
     "all_sources_dir": "src",
     "build_dir": "target/build",
