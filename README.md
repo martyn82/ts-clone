@@ -31,9 +31,26 @@ Test run (requires compilation):
 
     $ npm test
 
+Use in your application:
+
+```
+// TypeScript
+import {Mixin} from "ts-essentials/target/build/main/lib/mixin";
+    
+@Mixin(SomeTrait, SomeOtherTrait)
+class YourClass {
+}
+    
+// JavaScript
+var essentials = require("ts-essentials");
+essentials.clone(foo);
+```
+
+Make sure to build the `ts-essentials` first.
+
 ## Documentation
 
-See the `clone.ts` file in `src/main/lib`.
+Documentation is with the code.
 
 ## Licensing
 
