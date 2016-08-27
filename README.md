@@ -1,6 +1,8 @@
 ts-essentials
 ========
 
+[![Build Status](https://travis-ci.org/martyn82/ts-essentials.svg?branch=master)](https://travis-ci.org/martyn82/ts-essentials)
+
 A small TypeScript library that contains some essential tools to build sophisticated applications.
 
 The library contains:
